@@ -1,5 +1,5 @@
 # 💫 About Me:
-Diploma in Computer Science student passionate about web development and e-commerce. Skilled in HTML, CSS, JavaScript, and basic SEO, with hands-on experience in building responsive websites and managing online stores.<br>Skills : HTML • CSS • JavaScript • WordPress • SEO • E-commerce Operations<br>Goal : Aspiring developer focused on learning, building, and growing in the tech field.
+I'm Shoumik, passionate about web development and e-commerce. Skilled in HTML, CSS, JavaScript, and basic SEO, with hands-on experience in building responsive websites and managing online stores.<br>Skills : HTML • CSS • JavaScript • WordPress • SEO • E-commerce Operations<br>Goal : Aspiring developer focused on learning, building, and growing in the tech field.
 
 
 ## 🌐 Socials:
